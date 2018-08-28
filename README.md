@@ -47,7 +47,7 @@ There are two ways to interact with Android demo:
 
 **Mobile App Demo Screenshot**
 
-![Android App Demo Screenshot](screenshot.png?raw=true "Android App Demo Screenshot")
+![Android App Demo Screenshot](screenshot.PNG?raw=true "Android App Demo Screenshot")
 
 # LICENSE
 

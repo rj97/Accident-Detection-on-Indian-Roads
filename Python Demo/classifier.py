@@ -20,7 +20,7 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
 class AccidentsClassifier(object):
     def __init__(self):
-        PATH_TO_MODEL = 'exp_mobilenet/frozen_inference_graph.pb'
+        PATH_TO_MODEL = 'graph/frozen_inference_graph.pb'
         self.detection_graph = tf.Graph()
         with self.detection_graph.as_default():
             od_graph_def = tf.GraphDef()
